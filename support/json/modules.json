@@ -1,0 +1,95 @@
+[
+	{
+		"id":"0",
+		"name":"Introduction",
+		"customModuleHeaderName":"Introduction",
+		"pages":"5",
+		"back":"false",
+		"next":"true"
+	},
+	{
+		"id":"1",
+		"name":"Ethics and Social Responsibility",
+		"pages":"8",
+		"back":"true",
+		"next":"true"
+	},
+	{
+		"id":"2",
+		"name":"Data Acquisition and Management",
+		"pages":"9",
+		"back":"true",
+		"next":"true"
+	},
+	{
+		"id":"3",
+		"name":"Research Misconduct",
+		"pages":"14",
+		"back":"true",
+		"next":"true"
+	},
+	{
+		"id":"4",
+		"name":"Publication Practices and Responsible Authorship",
+		"pages":"13",
+		"back":"true",
+		"next":"true"
+	},
+	{
+		"id":"5",
+		"name":"Collaborative Science",
+		"pages":"10",
+		"back":"true",
+		"next":"true"
+	},
+	{
+		"id":"6",
+		"name":"Animal Safety",
+		"pages":"10",
+		"back":"true",
+		"next":"true"
+	},
+	{
+		"id":"7",
+		"name":"Human Safety",
+		"pages":"12",
+		"back":"true",
+		"next":"true"
+	},
+	{
+		"id":"8",
+		"name":"Laboratory Safety",
+		"pages":"9",
+		"back":"true",
+		"next":"true"
+	},
+	{
+		"id":"9",
+		"name":"Conflict of Interest",
+		"pages":"21",
+		"back":"true",
+		"next":"true"
+	},
+	{
+		"id":"10",
+		"name":"Mentor & Trainee Responsibilities",
+		"pages":"10",
+		"back":"true",
+		"next":"true"
+	},
+	{
+		"id":"11",
+		"name":"Fiscal Responsibility",
+		"pages":"12",
+		"back":"true",
+		"next":"true"
+	},
+	{
+		"id":"12",
+		"name":"Review & Resources",
+		"customModuleHeaderName":"Review & Resources",
+		"pages":"10",
+		"back":"true",
+		"next":"false"
+	}
+]
